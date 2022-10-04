@@ -1,4 +1,4 @@
 # BackendPustaka
 
 to run:
-yarn development
+# yarn development
